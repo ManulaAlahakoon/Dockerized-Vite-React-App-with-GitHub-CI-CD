@@ -14,7 +14,7 @@ RUN npm run build
 
 # Stage 2: Production image
 
-FROM node:22-alpin
+FROM node:22-alpine
 
 WORKDIR /app
 
