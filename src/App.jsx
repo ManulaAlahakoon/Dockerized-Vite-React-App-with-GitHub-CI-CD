@@ -18,17 +18,10 @@ function App() {
             <p>
               by <strong>Manula Alahakoon</strong>
             </p>
-            <p>
-              Explore modern frontend development with <strong>React</strong>{" "}
-              and <strong>Vite</strong>.
-            </p>
-            
+          
           </div>
         </div>
-        <div className="logos">
-          <img src={reactLogo} alt="React Logo" className="logo" />
-          <img src={viteLogo} alt="Vite Logo" className="logo" />
-        </div>
+       
       </section>
 
       {/* Features Section */}
