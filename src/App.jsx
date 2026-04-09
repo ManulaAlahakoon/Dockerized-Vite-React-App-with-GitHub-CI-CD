@@ -22,9 +22,7 @@ function App() {
               Explore modern frontend development with <strong>React</strong>{" "}
               and <strong>Vite</strong>.
             </p>
-            <button onClick={() => setCount(count + 1)} className="counter-btn">
-              Click Count: {count}
-            </button>
+            
           </div>
         </div>
         <div className="logos">
