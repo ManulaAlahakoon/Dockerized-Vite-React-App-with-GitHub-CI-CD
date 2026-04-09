@@ -30,7 +30,7 @@ function App() {
         <div className="feature-card">
           <h2>Containerized</h2>
           <p>
-            Multi-stage Docker build ensures reproducible and optimized images.
+            Multi-stage Docker build optimized images.
           </p>
         </div>
         <div className="feature-card">
@@ -39,31 +39,7 @@ function App() {
         </div>
       </section>
 
-      {/* Links / Resources */}
-      <section className="links-section">
-        <h2>Resources</h2>
-        <ul>
-          <li>
-            <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-              Vite Official
-            </a>
-          </li>
-          <li>
-            <a href="https://react.dev/" target="_blank" rel="noreferrer">
-              React Official
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/vitejs/vite"
-              target="_blank"
-              rel="noreferrer"
-            >
-              GitHub Repository
-            </a>
-          </li>
-        </ul>
-      </section>
+     
 
       {/* Footer */}
       <footer className="footer">
