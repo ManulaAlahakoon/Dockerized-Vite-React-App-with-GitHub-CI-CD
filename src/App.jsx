@@ -26,10 +26,7 @@ function App() {
 
       {/* Features Section */}
       <section className="features-section">
-        <div className="feature-card">
-          <h2>Fast Development</h2>
-          <p>Vite provides blazing fast HMR and builds for React projects.</p>
-        </div>
+        
         <div className="feature-card">
           <h2>Containerized</h2>
           <p>
@@ -70,7 +67,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© 2026 Manula Alahakoon. All rights reserved.</p>
+        <p>© 2026 Manula Alahakoon</p>
       </footer>
     </>
   );
