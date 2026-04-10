@@ -11,7 +11,7 @@
 <img width="1692" height="897" alt="build sucess" src="https://github.com/user-attachments/assets/6515a03a-2553-4c0a-9770-9034ae087e20" />
 
 <br><br>
-<h3>Versioned tagging in Docker Hub</h3>
+<h3>Version tagging in Docker Hub</h3>
 
 <img width="926" height="740" alt="tags" src="https://github.com/user-attachments/assets/f5b5d012-bf74-450f-89af-c79be07771df" />
 <br><br>
