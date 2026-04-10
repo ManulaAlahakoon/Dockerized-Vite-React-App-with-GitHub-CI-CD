@@ -15,16 +15,13 @@ function App() {
             <h1>Dockerized Vite React App</h1>
             <p>
               by <strong>Manula Alahakoon</strong>
-            </p>
-          
+            </p>          
           </div>
         </div>
-       
       </section>
 
       {/* Features Section */}
-      <section className="features-section">
-        
+      <section className="features-section">    
         <div className="feature-card">
           <h2>Containerized</h2>
           <p>
@@ -36,8 +33,6 @@ function App() {
           <p>GitHub Actions automatically builds and pushes Docker images.</p>
         </div>
       </section>
-
-     
 
       {/* Footer */}
       <footer className="footer">
